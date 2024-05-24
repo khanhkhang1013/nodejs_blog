@@ -25,6 +25,8 @@
   "homepage": "https://github.com/khanhkhang1013/nodejs_blog#readme",
   "dependencies": {
     "express": "^4.19.2",
+    "i": "^0.3.7",
+    "morgan": "^1.10.0",
     "nodemon": "^3.1.0"
   }
 }
